@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/Private/LOTAnimationView.m \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Target\ Support\ Files/lottie-ios/lottie-ios-prefix.pch \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimationView.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimationView_Compat.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTComposition.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTKeypath.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTValueDelegate.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/MacCompatibility/LOTPlatformCompat.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTModels.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/AnimatableProperties/LOTKeyframe.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/AnimatableProperties/LOTBezierData.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTLayer.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTMask.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeCircle.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeFill.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeGroup.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapePath.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeRectangle.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeStroke.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeTransform.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeTrimPath.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTLayerGroup.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTAsset.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTShapeGradientFill.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/Extensions/LOTHelpers.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/Extensions/UIColor+Expanded.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/Extensions/CGGeometry+LOTAdditions.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/Extensions/LOTBezierPath.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/Private/LOTAnimationView_Internal.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/PublicHeaders/LOTAnimationCache.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTCompositionContainer.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/AnimatableLayers/LOTLayerContainer.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/lottie-ios/lottie-ios/Classes/Models/LOTAssetGroup.h

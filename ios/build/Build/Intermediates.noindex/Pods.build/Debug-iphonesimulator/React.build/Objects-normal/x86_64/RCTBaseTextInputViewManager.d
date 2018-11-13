@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputViewManager.m \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Target\ Support\ Files/React/React-prefix.pch \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputViewManager.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextViewManager.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Modules/RCTAccessibilityManager.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Views/RCTFont.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Views/RCTShadowView+Layout.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Views/RCTLayout.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Modules/RCTUIManagerUtils.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Modules/RCTUIManagerObserverCoordinator.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputShadowView.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Views/RCTView.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/Libraries/Text/RCTConvert+Text.h

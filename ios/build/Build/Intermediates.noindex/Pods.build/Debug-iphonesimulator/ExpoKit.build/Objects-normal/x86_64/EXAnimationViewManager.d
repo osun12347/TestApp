@@ -1,0 +1,44 @@
+dependencies: \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/ExpoKit/ios/Exponent/Versioned/Core/Api/Components/Lottie/EXAnimationViewManager.m \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Target\ Support\ Files/ExpoKit/ExpoKit-prefix.pch \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/ExpoKit/ios/Exponent/Versioned/Core/Api/Components/Lottie/EXAnimationViewManager.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTViewManager.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTBridgeModule.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTDefines.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTConvert.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTAnimationType.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTBorderStyle.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTLog.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTAssert.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTUtils.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTPointerEvents.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTTextDecorationLineType.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTEventDispatcher.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTBridge.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTBridgeDelegate.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTJavaScriptLoader.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTFrameUpdate.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTInvalidating.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/UIView+React.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTComponent.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/ExpoKit/ios/Exponent/Versioned/Core/Api/Components/Lottie/EXContainerView.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTView.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/lottie-ios/Lottie/Lottie.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTAnimationTransitionController.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTAnimatedSwitch.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTAnimatedControl.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTCacheProvider.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTAnimationView.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTAnimationView_Compat.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTComposition.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTKeypath.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTValueDelegate.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTAnimationCache.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTBlockCallback.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTInterpolatorCallback.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/lottie-ios/Lottie/LOTValueCallback.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTUIManager.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTRootView.h

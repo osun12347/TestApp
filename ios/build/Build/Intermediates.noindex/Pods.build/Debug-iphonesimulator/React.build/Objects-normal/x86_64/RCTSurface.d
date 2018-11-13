@@ -1,0 +1,43 @@
+dependencies: \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/Surface/RCTSurface.mm \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Target\ Support\ Files/React/React-prefix.pch \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/Surface/RCTSurface.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/Surface/RCTSurfaceView+Internal.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/Surface/RCTSurfaceView.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Views/RCTShadowView+Layout.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Views/RCTLayout.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/Surface/RCTSurfaceDelegate.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowViewDelegate.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/Surface/RCTSurfaceRootView.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Views/RCTView.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTTouchHandler.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Modules/RCTUIManagerObserverCoordinator.h \
+  /Users/prakat/Sandbox/TestApp/node_modules/react-native/React/Modules/RCTUIManagerUtils.h

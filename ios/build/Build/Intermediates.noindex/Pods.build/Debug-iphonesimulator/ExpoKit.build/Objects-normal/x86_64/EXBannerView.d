@@ -1,0 +1,39 @@
+dependencies: \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/ExpoKit/ios/Exponent/Versioned/Core/Api/FBAds/EXBannerView.m \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Target\ Support\ Files/ExpoKit/ExpoKit-prefix.pch \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/ExpoKit/ios/Exponent/Versioned/Core/Api/FBAds/EXBannerView.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTView.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTBorderStyle.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTComponent.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTPointerEvents.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBAudienceNetwork.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBAdChoicesView.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBAdDefines.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/UIView+FBNativeAdViewTag.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBAdIconView.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBAdSettings.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBAdView.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBAdSize.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBInstreamAdView.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBInterstitialAd.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBMediaView.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBMediaViewVideoRenderer.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBNativeAd.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBAdStarRatingView.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBNativeAdBase.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBAdImage.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBNativeAdCollectionViewAdProvider.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBNativeAdsManager.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBNativeAdCollectionViewCellProvider.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBNativeAdView.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBNativeAdBaseView.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBNativeAdViewAttributes.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBNativeAdScrollView.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBNativeAdTableViewAdProvider.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBNativeAdTableViewCellProvider.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBNativeBannerAd.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBNativeBannerAdView.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/FBAudienceNetwork/FBAudienceNetwork/FBRewardedVideoAd.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTUtils.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTAssert.h \
+  /Users/prakat/Sandbox/TestApp/ios/Pods/Headers/Public/React/React/RCTDefines.h
