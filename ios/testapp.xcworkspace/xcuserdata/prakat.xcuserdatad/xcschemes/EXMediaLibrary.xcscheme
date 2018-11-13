@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EC02DA8FEFD386D9AC54198280CCB41E"
-               BuildableName = "Stripe.bundle"
-               BlueprintName = "Stripe-Stripe"
-               ReferencedContainer = "container:Pods.xcodeproj">
+               BlueprintIdentifier = "DDA96EFF2AAA23A2E82BDC0E6EE69B79"
+               BuildableName = "libEXMediaLibrary.a"
+               BlueprintName = "EXMediaLibrary"
+               ReferencedContainer = "container:Pods/Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,10 +45,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EC02DA8FEFD386D9AC54198280CCB41E"
-            BuildableName = "Stripe.bundle"
-            BlueprintName = "Stripe-Stripe"
-            ReferencedContainer = "container:Pods.xcodeproj">
+            BlueprintIdentifier = "DDA96EFF2AAA23A2E82BDC0E6EE69B79"
+            BuildableName = "libEXMediaLibrary.a"
+            BlueprintName = "EXMediaLibrary"
+            ReferencedContainer = "container:Pods/Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>

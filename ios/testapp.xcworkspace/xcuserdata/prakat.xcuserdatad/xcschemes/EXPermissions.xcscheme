@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EC02DA8FEFD386D9AC54198280CCB41E"
-               BuildableName = "Stripe.bundle"
-               BlueprintName = "Stripe-Stripe"
-               ReferencedContainer = "container:Pods.xcodeproj">
+               BlueprintIdentifier = "D189492EFBF9B3D9B21315087D3D4803"
+               BuildableName = "libEXPermissions.a"
+               BlueprintName = "EXPermissions"
+               ReferencedContainer = "container:Pods/Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,10 +45,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EC02DA8FEFD386D9AC54198280CCB41E"
-            BuildableName = "Stripe.bundle"
-            BlueprintName = "Stripe-Stripe"
-            ReferencedContainer = "container:Pods.xcodeproj">
+            BlueprintIdentifier = "D189492EFBF9B3D9B21315087D3D4803"
+            BuildableName = "libEXPermissions.a"
+            BlueprintName = "EXPermissions"
+            ReferencedContainer = "container:Pods/Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>

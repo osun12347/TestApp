@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EC02DA8FEFD386D9AC54198280CCB41E"
-               BuildableName = "Stripe.bundle"
-               BlueprintName = "Stripe-Stripe"
-               ReferencedContainer = "container:Pods.xcodeproj">
+               BlueprintIdentifier = "7D4B8E72E47E75CB5CB8448C020418AD"
+               BuildableName = "libAnalytics.a"
+               BlueprintName = "Analytics"
+               ReferencedContainer = "container:Pods/Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,6 +29,15 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "B56386401DB9693800A0598C"
+            BuildableName = "testapp.app"
+            BlueprintName = "testapp"
+            ReferencedContainer = "container:testapp.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -42,15 +51,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <MacroExpansion>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EC02DA8FEFD386D9AC54198280CCB41E"
-            BuildableName = "Stripe.bundle"
-            BlueprintName = "Stripe-Stripe"
-            ReferencedContainer = "container:Pods.xcodeproj">
+            BlueprintIdentifier = "B56386401DB9693800A0598C"
+            BuildableName = "testapp.app"
+            BlueprintName = "testapp"
+            ReferencedContainer = "container:testapp.xcodeproj">
          </BuildableReference>
-      </MacroExpansion>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -60,6 +70,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "7D4B8E72E47E75CB5CB8448C020418AD"
+            BuildableName = "libAnalytics.a"
+            BlueprintName = "Analytics"
+            ReferencedContainer = "container:Pods/Pods.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
