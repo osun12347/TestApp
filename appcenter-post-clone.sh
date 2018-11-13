@@ -8,3 +8,4 @@ curl "https://nodejs.org/dist/v${NODE_VERSION}/node-v${NODE_VERSION}.pkg" > "$HO
 sudo installer -store -pkg "$HOME/Downloads/node-installer.pkg" -target "/"
 
 echo "post clone was executer"
+npm install -g expo-cli
