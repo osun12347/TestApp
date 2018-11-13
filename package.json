@@ -6,9 +6,14 @@
     "start": "expo start",
     "android": "expo start --android",
     "ios": "react-native run-ios",
-    "eject": "expo eject"
+    "eject": "expo eject",
+    "preversion": "sh scripts/preVersion.sh",
+    "postinstall": "sh scripts/postInstall.sh"
   },
   "dependencies": {
+    "appcenter": "1.9.0",
+    "appcenter-analytics": "1.9.0",
+    "appcenter-crashes": "1.9.0",
     "expo": "^31.0.2",
     "expokit": "31.0.2",
     "react": "16.5.0",
