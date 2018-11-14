@@ -41,19 +41,19 @@ android {
 
   flavorDimensions 'minSdk', 'remoteKernel'
   productFlavors {
-    devKernel {
-      dimension 'remoteKernel'
-    }
+    // devKernel {
+    //   dimension 'remoteKernel'
+    // }
     prodKernel {
       dimension 'remoteKernel'
     }
-    devMinSdk {
-      dimension 'minSdk'
-      // dev utilizes minSDKVersion = 21 to allow the Android gradle plugin
-      // to pre-dex each module and produce an APK that can be tested on
-      // Android Lollipop without time consuming dex merging processes.
-      minSdkVersion 21
-    }
+    // devMinSdk {
+    //   dimension 'minSdk'
+    //   // dev utilizes minSDKVersion = 21 to allow the Android gradle plugin
+    //   // to pre-dex each module and produce an APK that can be tested on
+    //   // Android Lollipop without time consuming dex merging processes.
+    //   minSdkVersion 21
+    // }
     prodMinSdk {
       dimension 'minSdk'
       minSdkVersion 21
@@ -64,11 +64,11 @@ android {
       debuggable true
       ext.enableCrashlytics = false
     }
-    release {
-      minifyEnabled true
-      proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-      zipAlignEnabled true
-    }
+    // release {
+    //   minifyEnabled true
+    //   proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+    //   zipAlignEnabled true
+    // }
   }
   signingConfigs {
     debug {
