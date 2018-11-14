@@ -1,0 +1,13 @@
+#Wed Nov 14 13:34:32 CST 2018
+path.3=classes3.dex
+path.2=classes2.dex
+path.1=classes.dex
+path.0=classes.dex
+base.3=/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/transforms/dexMerger/devMinSdkProdKernel/debug/1
+base.2=/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/transforms/dexMerger/devMinSdkProdKernel/debug/1
+base.1=/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/transforms/dexMerger/devMinSdkProdKernel/debug/0
+base.0=/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/transforms/dexMerger/devMinSdkProdKernel/debug/1
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
