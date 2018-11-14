@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
+    abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="26"
-    build-mode="COLD"
-    density="420dpi"
+    build-mode="FULL"
+    density="xxhdpi"
     format="10"
     plugin-version="3.1.4"
-    timestamp="1542130790901"
+    timestamp="1542214256979"
     token="-1249975206329238178"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
@@ -23,24 +23,94 @@
         name="verifier"
         duration="0" />
 
+    <artifact
+        location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/dep/dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/resources/instant-run/devMinSdkDevKernel/debug/resources-devMinSdk-devKernel-debug.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/dep/dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/instant-run-apk/devMinSdkDevKernel/debug/app-devMinSdk-devKernel-debug.apk"
+        type="SPLIT_MAIN" />
+
     <build
         build-mode="FULL"
-        timestamp="1542130744065"
+        timestamp="1542214256979"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/resources/instant-run/devMinSdkDevKernel/debug/resources-devMinSdk-devKernel-debug.apk"
-            type="SPLIT" />
         <artifact
             location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
             location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
             location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_4.apk"
@@ -49,13 +119,10 @@
             location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_2.apk"
+            location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_8.apk"
+            location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
             location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_7.apk"
@@ -64,12 +131,47 @@
             location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/instant-run-apk/devMinSdkDevKernel/debug/app-devMinSdk-devKernel-debug.apk"
+            location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/resources/instant-run/devMinSdkDevKernel/debug/resources-devMinSdk-devKernel-debug.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/split-apk/devMinSdkDevKernel/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/instant-run-apk/devMinSdkDevKernel/debug/app-devMinSdk-devKernel-debug.apk"
             type="SPLIT_MAIN" />
     </build>
-    <build
-        build-mode="COLD"
-        timestamp="1542130790901"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-zh/values-zh.xml",
+            "outputFile": "/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-zh/values-zh.xml",
             "map": [
                 {
                     "source": "/Users/prakat/.gradle/caches/transforms-1/files-1.1/stripe-android-6.0.0.aar/bf68801ebe60220845427856b8ce8fb2/res/values-zh/values-zh.xml",

@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: host.exp.exponent:expo-media-library-1.1.0">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expo-media-library-1.1.0.aar/c468478d0f7ec7b044a97308a97cc62f/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expo-media-library-1.1.0.aar/c468478d0f7ec7b044a97308a97cc62f/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expo-media-library-1.1.0.aar/0a000880837c563253fc61d6aeece56d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expo-media-library-1.1.0.aar/0a000880837c563253fc61d6aeece56d/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

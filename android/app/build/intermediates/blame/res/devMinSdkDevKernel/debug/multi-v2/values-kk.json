@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-kk/values-kk.xml",
+            "outputFile": "/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-kk/values-kk.xml",
             "map": [
                 {
                     "source": "/Users/prakat/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/840d37e37ca395932bf459a72b936179/res/values-kk/values.xml",

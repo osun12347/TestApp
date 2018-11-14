@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
                     "source": "/Users/prakat/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/4ec51696758ca45f5f936ef39009adde/res/values-land/values-land.xml",

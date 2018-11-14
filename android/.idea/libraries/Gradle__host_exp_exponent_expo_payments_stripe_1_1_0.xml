@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: host.exp.exponent:expo-payments-stripe-1.1.0">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expo-payments-stripe-1.1.0.aar/d3ef46e47a77a293a777f276d4cfdf15/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expo-payments-stripe-1.1.0.aar/d3ef46e47a77a293a777f276d4cfdf15/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expo-payments-stripe-1.1.0.aar/1f9764ae44f8e08b4b88a7df099bac4e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expo-payments-stripe-1.1.0.aar/1f9764ae44f8e08b4b88a7df099bac4e/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

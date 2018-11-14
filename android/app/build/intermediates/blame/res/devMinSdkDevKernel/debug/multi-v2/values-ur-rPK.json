@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/prakat/Sandbox/TestApp/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-ur-rPK/values-ur-rPK.xml",
+            "outputFile": "/Users/prakat/Desktop/GitHub/TestApp/android/app/build/intermediates/incremental/mergeDevMinSdkDevKernelDebugResources/merged.dir/values-ur-rPK/values-ur-rPK.xml",
             "map": [
                 {
                     "source": "/Users/prakat/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.6.1.aar/f8b938af6c226c2b664dbf663e9d4ead/res/values-ur-rPK/values-ur-rPK.xml",
