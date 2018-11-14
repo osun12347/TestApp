@@ -40,6 +40,9 @@ android {
 
   flavorDimensions 'minSdk', 'remoteKernel'
   productFlavors {
+    devTest{
+      dimension 'minSdk'
+    }
     devKernel {
       dimension 'remoteKernel'
     }
